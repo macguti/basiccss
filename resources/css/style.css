@@ -295,6 +295,21 @@ header{
     display:block;
 }
 
+
+/*MOBILEnavi*/
+
+.mobile-nav-icons{
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display:none;
+}
+
+.mobile-nav-icons i{
+font-size:200%;
+color:white;
+}
+
     /* ---------------------------------------*/
 /*features*/
 /* ---------------------------------------*/
